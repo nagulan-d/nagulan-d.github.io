@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nagufolio-dcppcawd.manus.space/sitemap.xml
